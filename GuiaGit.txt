@@ -1,0 +1,17 @@
+## Enviando arquivos GIT:
+-git init;
+-git add .;
+-git commit -m "Enviando arquivos";
+-git remote add origin http://github.com/SeuRepositorio;
+-git push origin master.
+
+
+## Atualizando arquivos do git:
+-git init;
+-git add .;
+-git git commit -m "Mensagem de atualização";
+-git push origin master.
+
+## Clonando Arquivos:
+-git init;
+-git clone.
