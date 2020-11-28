@@ -17,6 +17,6 @@
 
 ## Clonando Arquivos:
 -git init;
--git clone.
+-git clone http://github.com/SeuRepositorio.
 
 
