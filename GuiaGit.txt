@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------
 
-## Atualizando arquivos do git:
+## Atualizando arquivos do GIT:
 -git init;
 -git add .;
 -git git commit -m "Mensagem de atualização";
